@@ -1,8 +1,8 @@
-\# Exercício 11 - Múltiplo de 2
+# Exercício 11 - Múltiplo de 2
 
 
 
-\## Descrição
+## Descrição
 
 
 
@@ -10,19 +10,19 @@ Este programa solicita um número inteiro ao usuário e verifica se ele é múlt
 
 
 
-\## Tecnologias utilizadas
+## Tecnologias utilizadas
 
 
 
-\- Java
+- Java
 
-\- NetBeans
+- NetBeans
 
-\- Maven
+- Maven
 
 
 
-\## Entrada
+## Entrada
 
 
 
@@ -30,7 +30,7 @@ A entrada contém um número inteiro informado pelo usuário.
 
 
 
-\## Saída
+## Saída
 
 
 
@@ -38,7 +38,7 @@ O programa informa se o número é ou não múltiplo de 2.
 
 
 
-\## Autor
+## Autor
 
 
 
